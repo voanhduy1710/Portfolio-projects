@@ -16,7 +16,7 @@ Skills Used: Power BI, DAX, Data Modeling, Retail Analytics
 
 ![Atino Sales Dashboard](1.%20Preview%20Atino%20Data%20model.png)
 
-[**2. Excel – Adidas Sales**](https://github.com/voanhduy1710/Portfolio-projects/tree/main/2.%20Excel%20-%20Addidas%20Sales)
+[**2. Excel – Adidas Sales**](2.%20Excel%20-%20Addidas%20Sales)
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
@@ -26,7 +26,7 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
 ![Adidas Sales Dashboard](2.%20Excel%20-%20Addidas%20Sales/2.%20Excel%20-%20Adidas%20Sales%20Dashboard.png)
 
-[**3. Uber Trips**](https://github.com/voanhduy1710/Portfolio-projects/tree/main/3.%20Uber%20Trips)
+[**3. Uber Trips**](3.%20Uber%20Trips)
 
 Skills Used: SQL, Power BI
 
@@ -36,7 +36,7 @@ Skills Used: SQL, Power BI
 
 ![Uber Trips Dashboard](3.%20Uber%20Trips/3.%20Uber%20Trips%20Dashboard.png)
 
-[**4. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio-projects/tree/main/4.%20Supply%20chain%20%26%20Sales)
+[**4. Supply Chain & Sales**](4.%20Supply%20chain%20%26%20Sales)
 
 Skills Used: Excel, Data Analysis, Power BI, Inventory Tracking
 
@@ -46,7 +46,7 @@ Skills Used: Excel, Data Analysis, Power BI, Inventory Tracking
 
 ![Supply Chain & Sales Dashboard](4.%20Supply%20chain%20%26%20Sales/4.%20Supply%20chain%20%26%20Sales%20Dashboard.png)
 
-[**5. SQL interview questions**](https://github.com/voanhduy1710/Portfolio-projects/blob/main/5.%20SQL_questions.md)
+[**5. SQL interview questions**](5.%20SQL_questions.md)
 
 Skills Used: SQL, Data Modeling
 
@@ -55,7 +55,7 @@ Skills Used: SQL, Data Modeling
 
 ![SQL Interview Questions Preview](5.%20SQL_preview.png)
 
-[**6. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio-projects/blob/main/6.%20Larksuite%20Auto%20report%20Google%20script.gs)
+[**6. Google Script Larksuite Auto-Report**](6.%20Larksuite%20Auto%20report%20Google%20script.gs)
 
 Skills Used: JavaScript / Google Apps Script, REST API, Automation
 
