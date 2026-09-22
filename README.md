@@ -1,61 +1,80 @@
-# 📊 Portfolio Projects
+# Portfolio Projects
 
 Welcome to my Data Analyst portfolio repository!
 This collection highlights a range of projects I've completed to sharpen my skills in data cleaning, analysis, visualization, and insight generation using tools like Excel, SQL, and Power BI.
 
-## 🔍 Projects Overview
+## Projects Overview
 
-[**📁 1. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/3.%20Supply%20chain%20%26%20Sales)
+[**1. Atino Sales Dashboard**](1.%20Preview%20Atino%20Data%20model.png)
 
-Skills Used: Excel, Data Analysis, Inventory Tracking
+Skills Used: Power BI, DAX, Data Modeling, Retail Analytics  
+*(Due to NDA, only the Data Model architecture preview is shared)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Extract, basic analysis, cleaned the raw data.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Combined supply chain, sales, and customer data for a full view of business performance.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Tracked revenue, profit, return rates, order volume, and shipping methods.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Included trend analysis, product segmentation, and forecasting.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI  
+&nbsp;&nbsp;&nbsp;&nbsp;• Architected a star-schema retail data model integrating multi-store POS bills, inventory, and foot traffic conversion data.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Developed comprehensive DAX metrics for revenue growth (% MoM, % YoY), Customer LTV, and dynamic parameter switching.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Created executive dashboard tracking store targets, sell-through rates, and operational inventory health.  
 
-[**📁 2. Uber Trips**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/2.%20Uber%20Trips)
+![Atino Sales Dashboard](1.%20Preview%20Atino%20Data%20model.png)
 
-Skills Used: SQL, PowerBI
-
-&nbsp;&nbsp;&nbsp;&nbsp;• Examined Uber trip data from June 2024.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Created an interactive dashboard to monitor booking volume, trip duration, fare amounts, and customer behavior.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Highlighted most popular routes, preferred vehicle types, and peak usage hours.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Insights can help improve customer service and route planning.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table and aggregated data into Hours of day to create a Heatmap visual  
-
-[**📁 3. Excel – Addidas Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/1.%20Excel%20-%20Addidas%20Sales)
+[**2. Excel – Adidas Sales**](https://github.com/voanhduy1710/Portfolio-projects/tree/main/2.%20Excel%20-%20Addidas%20Sales)
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Analyzed Adidas sales data from 2020–2021.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Explored sales performance across product types, regions, and sales channels.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Built a dashboard to track total revenue, profit, orders, and trends over time.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
+&nbsp;&nbsp;&nbsp;&nbsp;• Cleaned and structured 2020–2021 Adidas sales data across product lines, regions, and sales channels.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Built dynamic dashboard utilizing Pivot Tables, calculated fields, and KPI cards to track revenue and profit trends.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Identified key margin drivers, cost breakdowns, and growth opportunities across retail and eCommerce.  
 
-[**📄 4. SQL interview questions**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/4.%20SQL_questions.md)
+![Adidas Sales Dashboard](2.%20Excel%20-%20Addidas%20Sales/2.%20Excel%20-%20Adidas%20Sales%20Dashboard.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Basics and Aggregating Data (COUNT, SUM, AVG, MIN, MAX, etc.)  
-&nbsp;&nbsp;&nbsp;&nbsp;• CTEs: Common table expressions   
-&nbsp;&nbsp;&nbsp;&nbsp;• Windows functions: Ranking, numbering, PARTITION BY (), moving average (ROWS BETWEEN..)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Joining tables: Left, Right, Outer Joins      
+[**3. Uber Trips**](https://github.com/voanhduy1710/Portfolio-projects/tree/main/3.%20Uber%20Trips)
 
-[**📄 5. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/5.%20Larksuite%20Auto%20report%20Google%20script.gs)
+Skills Used: SQL, Power BI
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Retrieved data from Larkbase API and populated Google Sheets automatically.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Parsed and cleaned incoming data for accurate, consistent reporting.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Applied formatting and validation to enhance data readability.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Saved time by eliminating manual data updates and improving workflow.    
+&nbsp;&nbsp;&nbsp;&nbsp;• Extracted and aggregated June 2024 Uber trip dataset using SQL queries.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Built an interactive Power BI dashboard monitoring trip duration, fare totals, and customer usage patterns.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Designed hourly heatmaps and route/vehicle analysis to identify peak demand hours and optimize operations.  
 
-## 🧰 Tools & Programs
+![Uber Trips Dashboard](3.%20Uber%20Trips/3.%20Uber%20Trips%20Dashboard.png)
+
+[**4. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio-projects/tree/main/4.%20Supply%20chain%20%26%20Sales)
+
+Skills Used: Excel, Data Analysis, Power BI, Inventory Tracking
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Built an end-to-end data model integrating supply chain, sales, and customer performance metrics.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Developed an interactive Power BI dashboard featuring MoM revenue analysis, product segmentation, and forecasting.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Cleaned raw data and created custom DAX calculations (DimDate, MoM variance %, rolling metrics).  
+
+![Supply Chain & Sales Dashboard](4.%20Supply%20chain%20%26%20Sales/4.%20Supply%20chain%20%26%20Sales%20Dashboard.png)
+
+[**5. SQL interview questions**](https://github.com/voanhduy1710/Portfolio-projects/blob/main/5.%20SQL_questions.md)
+
+Skills Used: SQL, Data Modeling
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Curated practical SQL solutions covering complex multi-table JOINs, subqueries, and CTEs.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Implemented advanced window functions (PARTITION BY, ranking, rolling/moving averages).  
+
+![SQL Interview Questions Preview](5.%20SQL_preview.png)
+
+[**6. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio-projects/blob/main/6.%20Larksuite%20Auto%20report%20Google%20script.gs)
+
+Skills Used: JavaScript / Google Apps Script, REST API, Automation
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Automated data extraction from Larkbase REST API into Google Sheets on scheduled triggers.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Parsed, validated, and formatted incoming records to guarantee reporting data integrity.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Eliminated manual data entry routines, saving operational time and ensuring real-time reporting.    
+
+![Larksuite Auto-Report Preview](6.%20Appscript%20preview.png)    
+
+## Tools & Programs
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Excel: formulas, charts, pivot tables, dashboards  
 &nbsp;&nbsp;&nbsp;&nbsp;• SQL(PostgreSQL): data extraction, transformation, cleaning, aggregation, establishing pipeline  
 &nbsp;&nbsp;&nbsp;&nbsp;• Power BI: visualization, DAX, forecast  
 &nbsp;&nbsp;&nbsp;&nbsp;• Python: currently in progress
 
-## 📞 Contact
+## Contact
 
 - **Work phone:** +84 978 987 889
 - **Email:** voanhduy1710@gmail.com
+- **Website:** [voanhduy1710.dev](https://voanhduy1710.dev)
+

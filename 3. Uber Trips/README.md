@@ -1,7 +1,7 @@
-# 📊 Portfolio Projects
+# Portfolio Projects
 Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMWU5YWNjOGMtNzY2NC00MTk3LWIxZDEtMmNhYjIxM2Q2YjA5IiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=e26fe47c30d523a8e80b)
 
-## 🎯 Key Metrics & Dimensions
+## Key Metrics & Dimensions
 
 **• Booking value:** Total estimated revenue in set period
 
@@ -11,7 +11,7 @@ Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](http
 
 **• Distribution:** Total bookings by vehicle type, payment, period of the day
 
-## 💡 Summary of Insights
+## Summary of Insights
 
 • Most trips occurred in Midtown, Downtown, and LIC.
 
@@ -21,7 +21,7 @@ Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](http
 
 • Low activity in outer zones shows potential market gaps.
 
-## ✅ Recommendations and next steps
+## Recommendations and next steps
 
 • Position drivers in high-demand zones during peak hours.
 
@@ -32,11 +32,11 @@ Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](http
 • Use demand trends to improve driver scheduling.
 
 
-## 🧾 Uber trips Dashboard Preview
+## Uber trips Dashboard Preview
 
 Here’s a snapshot of the Dashboard from Uber trips Project:
 
-![Uber Trips Dashboard](https://github.com/voanhduy1710/Portfolio_projects/blob/main/2.%20Uber%20Trips/2.%20Uber%20Trips%20Dashboard.png?raw=true)
+![Uber Trips Dashboard](3.%20Uber%20Trips%20Dashboard.png)
 
 ## Dataset Preview
-![Dataset preview](https://github.com/voanhduy1710/Portfolio_projects/blob/main/2.%20Uber%20Trips/Dataset%20preview.png?raw=true)
+![Dataset preview](Dataset%20preview.png)
