@@ -70,7 +70,7 @@ Skills Used: JavaScript / Google Apps Script, REST API, Automation
 &nbsp;&nbsp;&nbsp;&nbsp;• Excel: formulas, charts, pivot tables, dashboards  
 &nbsp;&nbsp;&nbsp;&nbsp;• SQL(PostgreSQL): data extraction, transformation, cleaning, aggregation, establishing pipeline  
 &nbsp;&nbsp;&nbsp;&nbsp;• Power BI: visualization, DAX, forecast  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python: currently in progress
+&nbsp;&nbsp;&nbsp;&nbsp;• Python: data cleaning & manipulation (pandas, Polars), creating ETL pipelines, workflow automation with Cloud Run services
 
 ## ✆ Contact
 
