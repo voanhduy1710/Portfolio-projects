@@ -74,7 +74,7 @@ Skills Used: JavaScript / Google Apps Script, REST API, Automation
 
 ## ✆ Contact
 
-- **Work phone:** +84 978 987 889
+- **Phone number:** +84 978 987 889
 - **Email:** voanhduy1710@gmail.com
 - **Website:** [voanhduy1710.dev](https://voanhduy1710.dev)
 
