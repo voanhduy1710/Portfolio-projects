@@ -113,18 +113,57 @@ Analyzing Supply chain and Sales of a Consumer good Supply Company from June 201
 
 ![Supply Chain & Sales Dataset preview](4.%20Supply%20chain%20%26%20Sales/Dataset%20preview.png)
 
-### 5. SQL interview questions
+### 5. Lazada Sales Report
+
+Skills Used: Excel, Power BI, DAX, Data Modeling, E-commerce Analytics
+
+Analyzing 2023 Lazada sales performance, customer activity and product trends. Interactive dashboard can be found [here](https://bit.ly/Lazada_sales_reports). Full details: [5. Lazada Sales Report/README.md](5.%20Lazada%20Sales%20Report/README.md).
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Built a 4-page Power BI report (Overview, Product Analysis, Details, Key Findings) on order-level sales data, with Month-Year, State and City filters.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Tracked sales value, items sold, delivery success and return rate with MoM comparison, plus category, size, fulfilment and shipping-mode breakdowns.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Analyzed price vs. quantity correlation, Customer Lifetime Value distribution and order-day patterns by category.  
+
+#### Key Metrics & Dimensions
+
+- **Sales value:** $6.27M total sales in 2023
+- **Items sold / Successful deliveries:** 44,692 / 44,570
+- **Return rate:** 1.90% (return value $123.6K)
+- **Distribution:** by Category, Size, State, Fulfilment, Shipping mode
+
+#### Summary of Insights
+
+- Sets & Suits (49.0%) and Tops & Dresses (48.4%) drive almost all revenue.
+- Return rate is low at 1.90%, but some days spike up to 6.35%.
+- Most customers have an LTV of $100–$250; only a small segment exceeds $500.
+- Lower-priced items sell in higher volumes, especially Tops & Dresses.
+- Average order contains about 1 item.
+
+#### Recommendations and next steps
+
+- Use loyalty programs and targeted promotions to lift customers into higher LTV tiers.
+- Introduce bundling and cross-selling to increase basket size.
+- Monitor high-return days by SKU and size to catch quality or sizing issues.
+
+#### Lazada Sales Dashboard Preview
+
+![Lazada Sales Dashboard](5.%20Lazada%20Sales%20Report/5.%20Lazada%20Sales%20Dashboard.png)
+
+#### Dataset Preview
+
+![Lazada Sales Dataset preview](5.%20Lazada%20Sales%20Report/Data%20preview.png)
+
+### 6. SQL interview questions
 
 Skills Used: SQL, Data Modeling
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Curated practical SQL solutions covering complex multi-table JOINs, subqueries, and CTEs.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Implemented advanced window functions (PARTITION BY, ranking, rolling/moving averages).  
 
-![SQL Interview Questions Preview](5.%20SQL_preview.png)
+![SQL Interview Questions Preview](6.%20SQL_preview.png)
 
-Questions and solutions: [5. SQL_questions.md](5.%20SQL_questions.md)
+Questions and solutions: [6. SQL_questions.md](6.%20SQL_questions.md)
 
-### 6. Google Script Larksuite Auto-Report
+### 7. Google Script Larksuite Auto-Report
 
 Skills Used: JavaScript / Google Apps Script, REST API, Automation
 
@@ -132,9 +171,9 @@ Skills Used: JavaScript / Google Apps Script, REST API, Automation
 &nbsp;&nbsp;&nbsp;&nbsp;• Parsed, validated, and formatted incoming records to guarantee reporting data integrity.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Eliminated manual data entry routines, saving operational time and ensuring real-time reporting.  
 
-![Larksuite Auto-Report Preview](6.%20Appscript%20preview.png)
+![Larksuite Auto-Report Preview](7.%20Appscript%20preview.png)
 
-Script: [6. Larksuite Auto report Google script.gs](6.%20Larksuite%20Auto%20report%20Google%20script.gs)
+Script: [7. Larksuite Auto report Google script.gs](7.%20Larksuite%20Auto%20report%20Google%20script.gs)
 
 ## Tools & Programs
 

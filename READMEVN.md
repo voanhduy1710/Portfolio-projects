@@ -115,18 +115,57 @@ Phân tích chuỗi cung ứng và bán hàng của một công ty cung cấp h�
 
 ![Bộ dữ liệu Supply Chain & Sales](4.%20Supply%20chain%20%26%20Sales/Dataset%20preview.png)
 
-### 5. SQL interview questions
+### 5. Lazada Sales Report
+
+Kỹ năng sử dụng: Excel, Power BI, DAX, Data Modeling, E-commerce Analytics
+
+Phân tích hiệu quả bán hàng, hoạt động khách hàng và xu hướng sản phẩm trên Lazada năm 2023. Xem dashboard tương tác [tại đây](https://bit.ly/Lazada_sales_reports). Chi tiết đầy đủ: [5. Lazada Sales Report/README.md](5.%20Lazada%20Sales%20Report/README.md).
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Xây dựng báo cáo Power BI 4 trang (Overview, Product Analysis, Details, Key Findings) trên dữ liệu bán hàng cấp đơn hàng, có bộ lọc Tháng-Năm, Bang và Thành phố.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Theo dõi doanh số, số lượng bán, giao hàng thành công và tỷ lệ trả hàng kèm so sánh MoM, cùng phân bổ theo danh mục, size, đơn vị fulfilment và hình thức vận chuyển.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Phân tích tương quan giá và số lượng bán, phân bổ Customer Lifetime Value và xu hướng ngày đặt hàng theo danh mục.  
+
+#### Chỉ số & Chiều phân tích chính
+
+- **Doanh số:** Tổng 6,27 triệu USD trong năm 2023
+- **Số lượng bán / Giao thành công:** 44.692 / 44.570
+- **Tỷ lệ trả hàng:** 1,90% (giá trị trả hàng 123,6 nghìn USD)
+- **Phân bổ:** theo Danh mục, Size, Bang, Fulfilment, Hình thức vận chuyển
+
+#### Tóm tắt insight
+
+- Sets & Suits (49,0%) và Tops & Dresses (48,4%) đóng góp gần như toàn bộ doanh thu.
+- Tỷ lệ trả hàng thấp ở mức 1,90%, nhưng một số ngày tăng vọt lên đến 6,35%.
+- Phần lớn khách hàng có LTV từ 100–250 USD; chỉ một nhóm nhỏ vượt 500 USD.
+- Sản phẩm giá thấp bán được số lượng lớn hơn, đặc biệt ở nhóm Tops & Dresses.
+- Mỗi đơn hàng trung bình chỉ có khoảng 1 sản phẩm.
+
+#### Đề xuất và bước tiếp theo
+
+- Áp dụng chương trình khách hàng thân thiết và khuyến mãi mục tiêu để nâng khách hàng lên nhóm LTV cao hơn.
+- Triển khai bán theo combo và bán chéo để tăng giá trị giỏ hàng.
+- Theo dõi các ngày có tỷ lệ trả hàng cao theo SKU và size để phát hiện vấn đề chất lượng hoặc kích cỡ.
+
+#### Xem trước Dashboard Lazada Sales
+
+![Lazada Sales Dashboard](5.%20Lazada%20Sales%20Report/5.%20Lazada%20Sales%20Dashboard.png)
+
+#### Xem trước bộ dữ liệu
+
+![Bộ dữ liệu Lazada Sales](5.%20Lazada%20Sales%20Report/Data%20preview.png)
+
+### 6. SQL interview questions
 
 Kỹ năng sử dụng: SQL, Data Modeling
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Tuyển chọn các lời giải SQL thực tiễn bao gồm JOIN nhiều bảng phức tạp, subquery và CTE.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Triển khai các window function nâng cao (PARTITION BY, xếp hạng, trung bình trượt/lũy kế).  
 
-![SQL Interview Questions Preview](5.%20SQL_preview.png)
+![SQL Interview Questions Preview](6.%20SQL_preview.png)
 
-Câu hỏi và lời giải: [5. SQL_questions.md](5.%20SQL_questions.md)
+Câu hỏi và lời giải: [6. SQL_questions.md](6.%20SQL_questions.md)
 
-### 6. Google Script Larksuite Auto-Report
+### 7. Google Script Larksuite Auto-Report
 
 Kỹ năng sử dụng: JavaScript / Google Apps Script, REST API, Automation
 
@@ -134,9 +173,9 @@ Kỹ năng sử dụng: JavaScript / Google Apps Script, REST API, Automation
 &nbsp;&nbsp;&nbsp;&nbsp;• Phân tích cú pháp, kiểm tra và định dạng các bản ghi đầu vào để đảm bảo tính toàn vẹn của dữ liệu báo cáo.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Loại bỏ các thao tác nhập liệu thủ công, tiết kiệm thời gian vận hành và đảm bảo báo cáo theo thời gian thực.  
 
-![Larksuite Auto-Report Preview](6.%20Appscript%20preview.png)
+![Larksuite Auto-Report Preview](7.%20Appscript%20preview.png)
 
-Script: [6. Larksuite Auto report Google script.gs](6.%20Larksuite%20Auto%20report%20Google%20script.gs)
+Script: [7. Larksuite Auto report Google script.gs](7.%20Larksuite%20Auto%20report%20Google%20script.gs)
 
 ## Công cụ & Chương trình
 
