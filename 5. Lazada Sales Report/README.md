@@ -4,7 +4,7 @@ Skills Used: Excel, Power BI, DAX, Data Modeling, E-commerce Analytics
 
 A Power BI report on 2023 Lazada sales performance, covering sales value, items sold, delivery success, returns, product categories, and customer lifetime value (LTV).
 
-Interactive dashboard: [bit.ly/Lazada_sales_reports](https://bit.ly/Lazada_sales_reports)
+Interactive dashboard: [Open in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTk1OThhNGItYmE0OC00Y2ZjLWFjZDgtM2E3ZmU3NjZmOWM3IiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D)
 
 ## Files
 
