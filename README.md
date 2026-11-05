@@ -5,7 +5,7 @@ This collection highlights a range of projects I've completed to sharpen my skil
 
 ## Projects Overview
 
-[**1. Atino Sales Dashboard**](1.%20Preview%20Atino%20Data%20model.png)
+### 1. Atino Sales Dashboard
 
 Skills Used: Power BI, DAX, Data Modeling, Retail Analytics  
 *(Due to NDA, only the Data Model architecture preview is shared)*
@@ -16,37 +16,104 @@ Skills Used: Power BI, DAX, Data Modeling, Retail Analytics
 
 ![Atino Sales Dashboard](1.%20Preview%20Atino%20Data%20model.png)
 
-[**2. Excel – Adidas Sales**](2.%20Excel%20-%20Addidas%20Sales)
+### 2. Excel – Adidas Sales
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
+
+Analyzing Adidas sales in 2020–2021.
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Cleaned and structured 2020–2021 Adidas sales data across product lines, regions, and sales channels.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Built dynamic dashboard utilizing Pivot Tables, calculated fields, and KPI cards to track revenue and profit trends.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Identified key margin drivers, cost breakdowns, and growth opportunities across retail and eCommerce.  
 
+#### Adidas Sales Dashboard Preview
+
 ![Adidas Sales Dashboard](2.%20Excel%20-%20Addidas%20Sales/2.%20Excel%20-%20Adidas%20Sales%20Dashboard.png)
 
-[**3. Uber Trips**](3.%20Uber%20Trips)
+#### Dataset Preview
+
+![Adidas Sales Dataset preview](2.%20Excel%20-%20Addidas%20Sales/Dataset%20preview.png)
+
+### 3. Uber Trips
 
 Skills Used: SQL, Power BI
+
+Analyzing Uber trips in June 2024. Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMWU5YWNjOGMtNzY2NC00MTk3LWIxZDEtMmNhYjIxM2Q2YjA5IiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=e26fe47c30d523a8e80b).
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Extracted and aggregated June 2024 Uber trip dataset using SQL queries.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Built an interactive Power BI dashboard monitoring trip duration, fare totals, and customer usage patterns.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Designed hourly heatmaps and route/vehicle analysis to identify peak demand hours and optimize operations.  
 
+#### Key Metrics & Dimensions
+
+- **Booking value:** Total estimated revenue in set period
+- **Peak hours:** Hours of day with most rides
+- **Busiest days:** Day of week with highest ride volume
+- **Distribution:** Total bookings by vehicle type, payment, period of the day
+
+#### Summary of Insights
+
+- Most trips occurred in Midtown, Downtown, and LIC.
+- Peak hours were 5 PM – 7 PM, especially on weekdays.
+- Late-night demand increased on weekend nights.
+- Low activity in outer zones shows potential market gaps.
+
+#### Recommendations and next steps
+
+- Position drivers in high-demand zones during peak hours.
+- Promote rides in low-traffic areas to boost coverage.
+- Incentivize off-peak driving to balance supply.
+- Use demand trends to improve driver scheduling.
+
+#### Uber Trips Dashboard Preview
+
 ![Uber Trips Dashboard](3.%20Uber%20Trips/3.%20Uber%20Trips%20Dashboard.png)
 
-[**4. Supply Chain & Sales**](4.%20Supply%20chain%20%26%20Sales)
+#### Dataset Preview
+
+![Uber Trips Dataset preview](3.%20Uber%20Trips/Dataset%20preview.png)
+
+### 4. Supply Chain & Sales
 
 Skills Used: Excel, Data Analysis, Power BI, Inventory Tracking
+
+Analyzing Supply chain and Sales of a Consumer good Supply Company from June 2014-2017. Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMTg5YmZkZGUtMDVkOC00MDg4LTg4NmItOGMwZGM5YTRmZjZiIiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=62a7d95ec01d5533424c).
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Built an end-to-end data model integrating supply chain, sales, and customer performance metrics.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Developed an interactive Power BI dashboard featuring MoM revenue analysis, product segmentation, and forecasting.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Cleaned raw data and created custom DAX calculations (DimDate, MoM variance %, rolling metrics).  
 
+#### Key Metrics & Dimensions
+
+- **Revenue:** Total income generated from sales across all products and customer segments.
+- **Profit:** Earnings after subtracting all costs.
+- **Return Rate:** Percentage of sold items that customers returned; indicates satisfaction and product quality.
+- **MoM Changes:** Month-over-month changes in revenue, profit, and other KPIs to monitor trends.
+- **Distribution:** by Category, Segment over time
+
+#### Summary of Insights
+
+- In 2017, the business supported 693 customers and maintained a strong retention rate of 98.41%, with an average revenue of $950 per user. The Consumer segment played a major role in this performance, reflecting high customer loyalty and a concentrated customer base.
+- A subset of products consistently contributes to a large portion of total sales. Identifying and focusing on these high-performing items can optimize revenue.
+- Sales performance varies across different regions, highlighting the importance of region-specific marketing and distribution strategies.
+- Certain products exhibit slow inventory turnover, indicating potential overstocking issues that tie up capital and storage resources.
+- Analysis reveals delays in the supply chain, particularly in the procurement and distribution phases, affecting overall efficiency.
+
+#### Recommendations and next steps
+
+- Regional performance differences suggest the need for localized strategies. If, for instance, 60% of sales originate from one or two key regions, then marketing efforts and distribution logistics should be focused accordingly to reinforce that advantage and explore underperforming areas.
+- Inventory turnover analysis also reveals that certain products are moving slower than others, potentially tying up thousands of dollars in idle capital. Regular audits and a threshold policy (e.g., flagging items with turnover rates below 2x per year) can help free up space and funds for faster-moving stock.
+- Customer concentration in the Consumer segment indicates risk if demand shifts. Diversifying into adjacent customer segments—such as Small Business or B2B clients—could create a more balanced and resilient revenue base. Piloting this with just around 15% of current marketing budget could validate the opportunity without large upfront risk.
+
+#### Supply Chain & Sales Dashboard Preview
+
 ![Supply Chain & Sales Dashboard](4.%20Supply%20chain%20%26%20Sales/4.%20Supply%20chain%20%26%20Sales%20Dashboard.png)
 
-[**5. SQL interview questions**](5.%20SQL_questions.md)
+#### Dataset Preview
+
+![Supply Chain & Sales Dataset preview](4.%20Supply%20chain%20%26%20Sales/Dataset%20preview.png)
+
+### 5. SQL interview questions
 
 Skills Used: SQL, Data Modeling
 
@@ -55,15 +122,19 @@ Skills Used: SQL, Data Modeling
 
 ![SQL Interview Questions Preview](5.%20SQL_preview.png)
 
-[**6. Google Script Larksuite Auto-Report**](6.%20Larksuite%20Auto%20report%20Google%20script.gs)
+Questions and solutions: [5. SQL_questions.md](5.%20SQL_questions.md)
+
+### 6. Google Script Larksuite Auto-Report
 
 Skills Used: JavaScript / Google Apps Script, REST API, Automation
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Automated data extraction from Larkbase REST API into Google Sheets on scheduled triggers.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Parsed, validated, and formatted incoming records to guarantee reporting data integrity.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Eliminated manual data entry routines, saving operational time and ensuring real-time reporting.    
+&nbsp;&nbsp;&nbsp;&nbsp;• Eliminated manual data entry routines, saving operational time and ensuring real-time reporting.  
 
-![Larksuite Auto-Report Preview](6.%20Appscript%20preview.png)    
+![Larksuite Auto-Report Preview](6.%20Appscript%20preview.png)
+
+Script: [6. Larksuite Auto report Google script.gs](6.%20Larksuite%20Auto%20report%20Google%20script.gs)
 
 ## Tools & Programs
 
@@ -76,5 +147,4 @@ Skills Used: JavaScript / Google Apps Script, REST API, Automation
 
 - **Phone number:** +84 978 987 889
 - **Email:** voanhduy1710@gmail.com
-- **Website:** [voanhduy1710.dev](https://voanhduy1710.dev)
-
+- **Website:** [voanhduy1710.vercel.app](https://voanhduy1710.vercel.app)
